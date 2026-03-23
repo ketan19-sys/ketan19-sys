@@ -14,21 +14,24 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketan19-sys\&show_icons=true)
-
----
-## 📊  Contribution Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ketan19-sys&theme=tokyonight)
-
----
 ## 🧠 Skills Icons
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql" />
 
 ---
+
+## 📊  Contribution Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ketan19-sys&theme=tokyonight)
+
+---
+
+## 📊 GitHub Stats
+
+![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketan19-sys\&show_icons=true)
+
+---
+
 ## 🔥 Current Goals
 
 * Build real-world projects
