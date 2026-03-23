@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋, I'm Ketan Ahire
 
-<!--
-**ketan19-sys/ketan19-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Engineering Graduate
+💻 Passionate about Web Development & Machine Learning
+🚀 Currently working on **Foodify (ML Recipe App)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+* HTML, CSS, JavaScript
+* Python
+* MySQL
+
+---
+
+## 📊 GitHub Stats
+
+![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketan19-sys\&show_icons=true)
+
+---
+
+## 🔥 Current Goals
+
+* Build real-world projects
+* Improve DSA
+* Contribute to open source
+
+---
+
+## 📫 Connect with me
+
+* Email: [ahireketan2004@gmail.com](mailto:ahireketan2004@gmail.com)
