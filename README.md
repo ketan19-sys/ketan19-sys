@@ -3,7 +3,7 @@
 🎓 IT Engineering Graduate
 💻 Passionate about Web Development & Machine Learning
 
-
+<img src="https://raw.githubusercontent.com/ketan19-sys/snk/generated/github-contribution-grid-snake.svg" />
 ---
 
 ## 🔧 Tech Stack
