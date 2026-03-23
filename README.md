@@ -2,7 +2,7 @@
 
 🎓 IT Engineering Graduate
 💻 Passionate about Web Development & Machine Learning
-🚀 Currently working on **Foodify (ML Recipe App)**
+
 
 ---
 
