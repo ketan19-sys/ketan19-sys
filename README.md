@@ -19,7 +19,16 @@
 ![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketan19-sys\&show_icons=true)
 
 ---
+## 📊  Contribution Stats
 
+https://github-readme-streak-stats.herokuapp.com/?user=ketan19-sys
+
+---
+## 🧠 Skills Icons
+
+https://skillicons.dev/icons?i=html,css,js,python,mysql
+
+---
 ## 🔥 Current Goals
 
 * Build real-world projects
