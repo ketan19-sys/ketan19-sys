@@ -21,12 +21,12 @@
 ---
 ## 📊  Contribution Stats
 
-https://github-readme-streak-stats.herokuapp.com/?user=ketan19-sys
+![GitHub Streak](https://streak-stats.demolab.com?user=ketan-ahire&theme=tokyonight)
 
 ---
 ## 🧠 Skills Icons
 
-https://skillicons.dev/icons?i=html,css,js,python,mysql
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql" />
 
 ---
 ## 🔥 Current Goals
