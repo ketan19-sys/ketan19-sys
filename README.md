@@ -21,7 +21,7 @@
 ---
 ## 📊  Contribution Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ketan-ahire&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ketan19-sys&theme=tokyonight)
 
 ---
 ## 🧠 Skills Icons
